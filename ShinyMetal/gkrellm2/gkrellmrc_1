@@ -1,0 +1,19 @@
+# Maintained at themes.effx.us
+# $Id: gkrellmrc_1 15 2009-03-16 15:35:48Z don $
+
+#alt2_color
+StyleChart  *.textcolor = #FFFFFF #000000 shadow
+StyleChart  *.alt_textcolor = #FFFFFF #000000 shadow
+
+#label_color
+StylePanel  *.textcolor = #FFFFFF #000000 shadow
+StyleMeter cal.textcolor = #FFFFFF #000000 shadow
+
+#alt1_color
+StylePanel  *.alt_textcolor = #FFFFFF #000000 shadow
+StyleMeter  host.textcolor = #FFFFFF #000000 shadow
+
+#time_color
+StyleMeter  *.textcolor = #FFFFFF #000000 shadow
+StyleMeter  *.alt_textcolor = #FFFFFF #000000 shadow
+

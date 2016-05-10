@@ -1,0 +1,18 @@
+#! /bin/sh
+
+#rm -f buttons.cfg
+
+if test ! -d ~/.e16; then
+  (mkdir ~/.e16)
+fi
+
+cat > ~/.e16/buttons.cfg << EOF
+#include <definitions>
+__E_CFG_VERSION 0
+
+#include <buttons/buttons.cfg>
+EOF
+
+cp --backup --suffix .old Pulldowns/* ~/.e16
+
+eesh -e restart
