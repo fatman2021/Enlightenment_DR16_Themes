@@ -1,0 +1,24 @@
+AmigaOS X11 theme
+52.0
+
+Copyright (C) 2007
+Szymon Tomzik and Martin Merz
+All Rights Reserved
+
+Images were collected and created from AmigaOS 4 screenshots.
+Amiga and its logos are registered trademarks of Amiga, Inc.
+
+www.eXec.pl
+www.masonicons.info
+
+contact: szymoon<at>konto.pl
+
+Installation:
+1. Copy "aosx11" drawer to Cygnix:Home/root/.e16/themes/
+2. Download and install AISS (Enlightenment iconbar uses AISS) - http://www.masonicons.info/aiss/index.html
+3. Enlightenment/User Menus/Themes - select "aosx11"
+4. Enlightenment/Desktop Background Settings - select "X11_1024x768.png" or "X11_1280x1024.png"
+
+Future:
+Maybe Mason create additional AISS images (ToolbarImages/Contrib/) for X11?
+Default Amiga X11 theme? Maybe CygnusEd include this theme in next update X11?
