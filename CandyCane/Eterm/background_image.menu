@@ -1,8 +1,5 @@
 <Eterm-0.9.2>
 
-# Maintained at themes.effx.us
-# $Id: background_image.menu 92 2009-12-01 07:56:18Z don $
-
 begin menu
   title "Image"
   begin menuitem

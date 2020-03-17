@@ -1,6 +1,3 @@
-# Maintained at themes.effx.us
-# $Id: gkrellmrc_1 15 2009-03-16 15:35:48Z don $
-
 rx_led_x = -10
 rx_led_y = 3 
 tx_led_x = -4

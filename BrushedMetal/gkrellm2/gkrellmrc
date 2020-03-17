@@ -1,8 +1,5 @@
-# Maintained at themes.effx.us
-# $Id: gkrellmrc 15 2009-03-16 15:35:48Z don $
-
 author = ""
-theme_alternatives = 1
+theme_alternatives = 2
 
 frame_left_width = 4
 frame_right_width = 4
